@@ -61,4 +61,4 @@ dvc stage add -n evaluate \
 
 ### Dagshub dataprocessing pipeline
 
-![image datapipeline](demodagshub1/dagshub_datapipeline.png)
+![image datapipeline](dagshub_datapipeline.png)
